@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Githubber</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="load_user_repositories">Load user repositories</string>
+    <string name="your_comment">Your comment</string>
+    <string name="send_comment">Send comment</string>
+
+    <string name="oauthUrl">https://github.com/login/oauth/authorize</string>
+<!--    <string name="clientId"></string>-->
+<!--    <string name="clientSecret"></string>-->
+    <string name="callbackUrl">githubusers://callback</string>
+    <string name="enter_a_comment">Please enter a comment</string>
+    <string name="auth_success">Authentication Successful</string>
+    <string name="auth_failed">Authentication Failed</string>
+    <string name="no_repo_available">No repositories available</string>
+    <string name="select_a_repo">Please select a repository</string>
+    <string name="text_comment_created">Comment created</string>
+    <string name="failed_to_create_comment">Failed to create comment</string>
+    <string name="no_comment_for_pull_request">No comments for this pull request</string>
+    <string name="repository_has_no_pulls">This Repository has no pulls</string>
+    <string name="user_has_no_repository">This user has no repositories</string>
+    <string name="err_failed_to_load_token">Failed to load token</string>
+    <string name="err_failed_to_load_github_repo">Failed to load Github Repository</string>
+    <string name="err_empty_repo">Failed! Empty Repository</string>
+    <string name="err_failed_to_load_pull">Failed to Load pull requests</string>
+    <string name="err_unable_to_load_comment">Unable to load Comments</string>
+    <string name="err_postin_comments">Error posting comments</string>
+    <string name="select_pull_request">Please select a pull request</string>
+
+
+</resources>
