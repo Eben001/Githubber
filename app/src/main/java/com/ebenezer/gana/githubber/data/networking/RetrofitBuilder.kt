@@ -1,7 +1,7 @@
 package com.ebenezer.gana.githubber.data.networking
 
-import com.ebenezer.gana.githubber.data.model.repository.GithubRepository
-import com.ebenezer.gana.githubber.data.model.repository.GithubRepositoryImpl
+import com.ebenezer.gana.githubber.data.repository.GithubRepository
+import com.ebenezer.gana.githubber.data.repository.GithubRepositoryImpl
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit

@@ -1,7 +1,7 @@
 package com.ebenezer.gana.githubber
 
 import android.app.Application
-import com.ebenezer.gana.githubber.data.model.repository.GithubRepositoryImpl
+import com.ebenezer.gana.githubber.data.repository.GithubRepositoryImpl
 import com.ebenezer.gana.githubber.data.networking.RetrofitBuilder
 
 class App : Application() {

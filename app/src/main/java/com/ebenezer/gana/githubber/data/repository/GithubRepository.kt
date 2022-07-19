@@ -1,4 +1,4 @@
-package com.ebenezer.gana.githubber.data.model.repository
+package com.ebenezer.gana.githubber.data.repository
 
 import com.ebenezer.gana.githubber.data.model.Result
 import com.ebenezer.gana.githubber.data.model.response.GithubComment
