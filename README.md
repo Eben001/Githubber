@@ -1,5 +1,5 @@
 # Githubber
-Githubber is an application that communicates with Github's API
+Githubber is an application that communicates with Github using Github's API
 
 ## General Information
 - Githubber uses Github's API to make request like retrieving list of repositories, pull requests and more.
